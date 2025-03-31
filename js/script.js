@@ -27,5 +27,5 @@ function calculateVolumeOfPyramid() {
 
   // output
   document.getElementById("answer").innerHTML =
-    "Volume of your Pyramid is: " + volumeOfPyramid + " mm²"
+    "Volume of a Right Rectangular Pyramid is: " + volumeOfPyramid + " mm³"
 }
